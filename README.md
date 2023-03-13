@@ -8,6 +8,8 @@ Este proyecto incluye código en `HTML` y está pensado para:
 3. Interacctuar con GitHub.
 4. Mejorar mis habilidades en Git/GitHub.
 5. Estudiar para el examen.
+
+
 ---
 
-### Gracias por tus aportaciones.
+### Gracias por tus aportaciones y comentarios.
